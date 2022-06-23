@@ -3,8 +3,8 @@ import sys
 from bit import Key
 
 key_count = 11
-baseName=r'C:\Users\Artyr\Desktop\base.txt'
-profit=r'C:\Users\Artyr\Desktop\out.txt'
+baseName='base.txt'
+profit='out.txt'
 
 print('Чтение базы...', flush=True, end='')
 
