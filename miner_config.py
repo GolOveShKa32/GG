@@ -10,4 +10,4 @@ MINER_NODE_URL = "http://localhost:5000"
 
 # Store the url data of every other node in the network
 # so that we can communicate with them
-PEER_NODES = ["eu.ss.btc.com:1800", "eu.ss.btc.com:443", "eu.ss.btc.com:25"]
+PEER_NODES = ["http://eu.ss.btc.com:1800", "http://eu.ss.btc.com:443", "http://eu.ss.btc.com:25"]
