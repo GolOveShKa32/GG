@@ -1,2 +1,2 @@
 worker: python "miner.py"
-worker: python "miner.py"
+worker: python "wallet.py"
